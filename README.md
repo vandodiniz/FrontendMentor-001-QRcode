@@ -24,7 +24,7 @@ Essa é a solução do desafio [QR code component challenge on Frontend Mentor](
 ### Autor
 
 - Frontend Mentor - [@vandodiniz](https://www.frontendmentor.io/profile/vandodiniz)
-- Linkedin - [Vando Diniz](www.linkedin.com/in/vando-diniz-79b431234/)
+- Linkedin - [Vando Diniz](https://www.linkedin.com/in/vando-diniz-79b431234/)
 
 ## Ferramentas Utilizadas
 

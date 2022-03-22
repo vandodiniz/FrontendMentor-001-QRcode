@@ -2,22 +2,21 @@
 
 Essa é a solução do desafio [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) do site FrontEnd Mentor! 
 
-## Table of contents
+## Sumário
 
-- [Overview](#overview)
+- [Visão Geral](#visão-geral)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Processo de Criação](#processo-de-criação)
+  - [Ferramentas Utilizadas](#ferramentas-utilizadas)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
+## Visão Geral
 
 ### Screenshot
 
@@ -28,20 +27,13 @@ Essa é a solução do desafio [QR code component challenge on Frontend Mentor](
 - URL da Solução: [Add solution URL here](https://your-solution-url.com)
 - URL do Site: [Add live site URL here](https://your-live-site-url.com)
 
-## My process
+## Processo de Criação
 
-### Built with
+### Ferramentas Utilizadas
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- HTML 5 Semântico
+- CSS
+- Responsividade
 
 ### What I learned
 

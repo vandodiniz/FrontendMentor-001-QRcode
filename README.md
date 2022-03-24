@@ -8,7 +8,9 @@ Essa é a solução do desafio [QR code component challenge on Frontend Mentor](
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Autor](#autor)
-- [Ferramentas Utilizadas](#ferramentas-utilizadas)
+- [Desenvolvimento](#desenvolvimento)
+  - [Ferramentas Utilizadas](#ferramentas-utilizadas)
+  - [Referêcias](#referências)
 
 ## Visão Geral
 
@@ -26,8 +28,14 @@ Essa é a solução do desafio [QR code component challenge on Frontend Mentor](
 - Frontend Mentor - [@vandodiniz](https://www.frontendmentor.io/profile/vandodiniz)
 - Linkedin - [Vando Diniz](https://www.linkedin.com/in/vando-diniz-79b431234/)
 
-## Ferramentas Utilizadas
+## Desenvolvimento
+
+### Ferramentas Utilizadas
 
 - HTML 5 Semântico
 - CSS
 - Responsividade
+
+### Referências
+
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Este site me ajudou a centralizar meu conteúdo de forma mais eficiente usando o modelo Flexbox.

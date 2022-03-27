@@ -5,7 +5,7 @@ Essa é a solução do desafio [QR code component challenge on Frontend Mentor](
 ## Sumário
 
 - [Visão Geral](#visão-geral)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
   - [Autor](#autor)
 - [Desenvolvimento](#desenvolvimento)
@@ -14,9 +14,10 @@ Essa é a solução do desafio [QR code component challenge on Frontend Mentor](
 
 ## Visão Geral
 
-### Screenshot
+### Screenshots
 
 ![](images/screenshot.png)
+![](images/screenshot2.png)
 
 ### Links
 
